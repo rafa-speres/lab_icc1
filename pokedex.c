@@ -1,5 +1,4 @@
-//[6 - Struct] Pokedex
-//Rafael Scalon Peres Conti
+//Pokedex
 
 #include <stdio.h>
 #include <stdlib.h>
