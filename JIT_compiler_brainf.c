@@ -1,5 +1,5 @@
 //[Bonus] Compilador JIT de Brainf*ck
-//Rafael Scalon Peres Conti
+
 
 #include<stdio.h>
 #include<stdlib.h>
