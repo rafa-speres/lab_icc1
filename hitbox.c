@@ -1,5 +1,5 @@
-//[2 - Condicional] Hitbox
-//Rafael Scalon Peres Conti
+//Hitbox
+//
 #include <stdio.h>
 
 int main(void) {
