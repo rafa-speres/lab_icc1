@@ -1,5 +1,5 @@
-//[5 - AlocaÃ§Ã£o Dinamica] Ataques e Tipos
-//Rafael Scalon Peres Conti
+//Ataques e Tipos
+
 
 #include<stdio.h>
 #include<stdlib.h>
