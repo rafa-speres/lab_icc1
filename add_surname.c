@@ -1,5 +1,4 @@
-//[5 - AlocaÃ§Ã£o Dinamica] Adicionando Sobrenomes
-//Rafael Scalon Peres Conti
+// Adicionando Sobrenomes
 
 #include<stdio.h>
 #include<stdlib.h>
