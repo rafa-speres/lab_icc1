@@ -1,5 +1,4 @@
-//[Bonus] Compilador JIT de Brainf*ck
-
+//Compilador JIT de Brainf*ck
 
 #include<stdio.h>
 #include<stdlib.h>
