@@ -1,5 +1,4 @@
-//[6 - Struct] Gerenciamento de estudantes
-//Rafael Scalon Peres Conti
+//Gerenciamento de estudantes
 
 #include <stdio.h>
 #include <stdlib.h>
