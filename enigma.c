@@ -1,5 +1,5 @@
-//[3 - Vetores] O Enigma
-//Rafael Scalon Peres Conti
+//The Enigma
+
 #include <stdio.h>
 
 int main(void) {
