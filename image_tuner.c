@@ -1,5 +1,5 @@
-//[4 - Funcoes] Sintonizando Imagem
-//Rafael Scalon Peres Conti
+//Sintonizando Imagem
+
 #include<stdlib.h>
 
 char** deslocamento_horizontal(int quantidade, int linhas, int colunas, char **imagem){
