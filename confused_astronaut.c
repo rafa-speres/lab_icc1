@@ -1,5 +1,5 @@
-//[2 - Repeticao] Astronauta confuso
-//Rafael Scalon Peres Conti
+//Astronauta confuso
+
 #include <stdio.h>
 
 int main(void){
