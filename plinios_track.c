@@ -1,5 +1,5 @@
-//[3 - Matriz] A Esteira de Plinio
-//Rafael Scalon Peres Conti
+//A Esteira de Plinio
+
 #include <stdio.h>
 
 int main(void){
