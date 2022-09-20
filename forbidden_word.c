@@ -1,5 +1,4 @@
-//[5 - AlocaÃ§Ã£o Dinamica] Retirar Palavra Tabu
-//Rafael Scalon Peres Conti
+//Retirar Palavra Tabu
 
 #include<stdio.h>
 #include<stdlib.h>
